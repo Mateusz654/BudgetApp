@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BudgetApp</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="add_category">Add Category</string>
+    <string name="transactions">TRANSACTIONS</string>
+    <string name="categories">CATEGORIES</string>
+    <string name="enter_category">Enter category</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

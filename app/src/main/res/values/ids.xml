@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="removeCategoryButton" type="id" />
+    <item name="donationDate" type="id" />
+    <item name="categoryRecyclerView" type="id" />
+</resources>
